@@ -1,0 +1,6 @@
+[book]
+authors = ["Oleks Litus"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Softbook"
